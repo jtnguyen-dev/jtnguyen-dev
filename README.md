@@ -4,4 +4,4 @@
 I'm a Boston-based software engineer and freelancer who creates applications in hopes of unifying people
 
 ## About Me
-💻 You can see all of my previous work by viewing my <a href="https://github.com/coding-jn?tab=repositories">Github</a> repositories.
+💻 You can see all of my previous work by viewing my <a href="https://github.com/jtnguyen-dev?tab=repositories">Github</a> repositories.
